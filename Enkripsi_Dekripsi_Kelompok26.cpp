@@ -90,7 +90,6 @@ int main() {
             cout << " Maaf INPUT salah, coba lagi!!" << endl;
             break;
         }
-
         cout << "Kembali ke MENU? (y/n) : ";
         cin >> lanjut;
     }while (lanjut == 'y');
