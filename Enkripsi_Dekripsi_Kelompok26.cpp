@@ -60,7 +60,6 @@ int main() {
 
     Method oke;
     int pil; 
-    bool stop;
     char lanjut;
 
     cout << " Kelompok 26 \n";
